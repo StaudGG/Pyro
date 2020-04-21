@@ -1,0 +1,22 @@
+#Pyro Configuration File
+
+EXECUTOR: "&cYou can't do this in your current state."
+NO.PERMISSION: "&cNo Permission"
+PLAYER.OFFLINE: "&cUUID/Player couldn't be found."
+
+USAGE:
+  RENAME: "&c/rename <item>"
+
+ITEM:
+  RENAMED: "&aItem rename, successful!"
+
+#Commands
+FEED: "&6Your hunger has been replenished"
+HEAl: "&6You have been healed."
+INVSEE: "&bOpening inventory of: %target%"
+
+#Item Damage
+DAMAGE:
+  PYRO: "3.3"
+  DEATHBRINGER: "3.3"
+  PYROSWORD: "3.4"

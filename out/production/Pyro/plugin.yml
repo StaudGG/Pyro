@@ -1,0 +1,18 @@
+name: Pyro
+main: me.staud.pyro.PyroPlugin
+version: 1.2
+author: Staud
+
+commands:
+  pyro:
+    description: null
+  lore:
+    description: null
+  rename:
+    description: null
+  feed:
+    description: null
+  heal:
+    description: null
+  invsee:
+    description: null
